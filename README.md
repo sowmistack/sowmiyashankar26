@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
- I absolutely love anything related to cloud and DevOps. I enjoy being part of tech groups and consider myself lucky to share my thoughts on the latest trends and best ways of doing things.
+I'm a tech enthusiast, content creator, and a blogger. I really enjoy sharing what I know with the community, and I believe that learning and getting better never really stop – it's a forever thing.
 
 
 ## 🛠 Skills
