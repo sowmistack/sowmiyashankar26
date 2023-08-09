@@ -4,6 +4,14 @@
 ## 🚀 About Me
 I'm a tech enthusiast, content creator, and a blogger. I really enjoy sharing what I know with the community, and I believe that learning and getting better never really stop – it's a forever thing.
 
+## 🚀 Technical Contribution:
+
+I am delighted to be an integral part of the 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team, where the journey of continuous learning through the exploration of new technologies not only bolsters my confidence but also fills me with immense joy.
+
+The CloudnLoud Tech community is a 𝐧𝐨𝐧-𝐩𝐫𝐨𝐟𝐢𝐭 open source tech community, volunteer-run event. CloudnLoud is started with the aim to help cancer children 👦 who are not able to afford the treatment cost 💰Cloudnloud is aiming to save 2 million children from their cancer death.
+
+At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings, and technical discussions on various IT technologies & open-source tools.
+
 
 ## 🛠 Skills
 Technical skills
@@ -24,7 +32,6 @@ DevOps Tools :
        - Terraform
        - Jenkins
        - Git, GitHub 
-Future Plan : Mutli cloud Architect
     
        
 
