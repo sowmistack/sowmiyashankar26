@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
- I am passionate about cloud computing.
+ I absolutely love anything related to cloud and DevOps. I enjoy being part of tech groups and consider myself lucky to share my thoughts on the latest trends and best ways of doing things.
 
 
 ## 🛠 Skills
