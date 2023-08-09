@@ -61,9 +61,18 @@ DevOps Tools :
  - [How to setup ansible lab in Gcp](https://www.linkedin.com/posts/sowmishankar_heyyconnections-letsgrowtogether-blog-activity-7041031595448819712-9-vG?utm_source=share&utm_medium=member_desktop)
  - [how to install docker engine on ubuntu machine in Gcp](https://www.linkedin.com/posts/sowmishankar_heyyconnections-letsgrowtogether-blog-activity-7046977512605712384-HCyq?utm_source=share&utm_medium=member_desktop)
 
-
-
+## Connect with me 
+<a href="https://github.com/sowmiyashankar26" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/sowmishankar26" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="www.linkedin.com/in/sowmishankar" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 ## 🔗 connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in//sowmishankar)
+
